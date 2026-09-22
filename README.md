@@ -1,3 +1,2 @@
 # project1
-this is my first Git Repository 
-Author-om chavan
+this is my first Git Repository<br> Author-om chavan
